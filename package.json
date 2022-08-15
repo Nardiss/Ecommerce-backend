@@ -18,7 +18,6 @@
     "url": "https://github.com/Nardiss/Ecommerce-backend/issues"
   },
   "homepage": "https://github.com/Nardiss/Ecommerce-backend#readme",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
@@ -28,5 +27,6 @@
   },
   "devDependencies": {
     "webpack": "^5.74.0"
-  }
+  },
+  "description": "This is for the use of companies.\r AS A manager at an internet retail company\r I WANT a back end for my e-commerce website that uses the latest technologies\r SO THAT my company can compete with other e-commerce companies"
 }
