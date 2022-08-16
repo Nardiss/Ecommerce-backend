@@ -36,7 +36,5 @@ npm start
 Testing
 ✏️
 
-No testing is currently set up
-
-Contributing
+https://watch.screencastify.com/v/VlTrVWoJvsgqE8nzKtq6
 
